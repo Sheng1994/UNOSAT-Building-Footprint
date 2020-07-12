@@ -1,6 +1,6 @@
 # Modify
 DetectoRS-master-UNOSAT/tools/infer_json.py 
-
+DetectoRS-master-UNOSAT/demo/image_demo.py
 
 # DetectoRS
 
