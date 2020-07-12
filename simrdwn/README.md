@@ -1,4 +1,7 @@
 # Modify #
+
+Origin version is for bbox, modified version is for mask.
+
 Reconsitution  
 
 simrdwn_unosat.py
