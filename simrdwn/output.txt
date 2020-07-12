@@ -1,0 +1,7 @@
+['Loc_Tmp', 'Prob','Xmin', 'Ymin', 'Xmax','Ymax','id']
+
+/opt/project/Project/buildingfootprint/SpaceNet/simrdwn-master/results/test_yolt2_dense_cowc_2020_05_06_09-58-39/12TVK220980-CROP_split/12TVK220980-CROP__0_0_416_416_0_6773_6773.png 0.149762 401.342834 1.501750 414.424866 11.048837
+
+
+annotation：[x_min, y_min, width, height,Prob]
+output:[x_min, y_min, Xmax, Ymax,Prob]
