@@ -69,7 +69,7 @@ dist_test.sh
 
 infer_json_test.py
 
-
+https://github.com/open-mmlab/mmdetection/issues/2167
 
 ## Thanks to the three open source code
 [DetectoRS](https://github.com/joe-siyuan-qiao/DetectoRS)<br>
