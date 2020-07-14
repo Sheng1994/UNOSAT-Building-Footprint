@@ -63,6 +63,11 @@ infer_tot.sh
 We can get the corresponding output geojson file on the Output directly
 
 
+aws
+Account ID (12 digits) or account alias:601071647888
+IAM user name:Sheng1994
+Password:258369
+
 TO DO: Multi-GPU test
 
 dist_test.sh
