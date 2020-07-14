@@ -133,7 +133,7 @@ RUN export PYTHONPATH=$DetectoRS:$PYTHONPATH
 
 RUN pip install mmcv
 
-RUN export PYTHONIOENCODING=utf8
+RUN export PYTHONIOENCODING='utf_8'
 RUN export LANG=C.UTF-8
 
 WORKDIR /workspace/Buildingfootprint
