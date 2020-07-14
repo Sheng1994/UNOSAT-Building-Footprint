@@ -126,7 +126,7 @@ ENV FVCORE_CACHE="/tmp"
 
 #RUN pip install "git+https://github.com/Sheng1994/DetectoRS-master-UNOSAT.git"
 
-RUN git clone -b detectors https://github.com/Sheng1994/DetectoRS-master-UNOSAT.git /DetectoRS && cd /DetectoRS && pip install --no-cache-dir -e .
+RUN git clone -b detectors https://github.com/Sheng1994/UNOSAT-Building-Footprint.git /DetectoRS && cd /DetectoRS && pip install --no-cache-dir -e .
 RUN export DetectoRS=$PWD
 RUN export PYTHONPATH=$DetectoRS:$PYTHONPATH
 
