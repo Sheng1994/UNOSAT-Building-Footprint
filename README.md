@@ -63,7 +63,7 @@ infer_tot.sh
 We can get the corresponding output geojson file on the Output directly
 
 
-TO DO
+TO DO: Multi-GPU test
 
 dist_test.sh
 
