@@ -60,7 +60,7 @@ ____
 ```shell
 infer_tot.sh
 ```
-We can get the corresponding output geojson file on the Output directory
+We can get the corresponding output geojson file on the Output directly
 
 
 ## Thanks to the three open source code
