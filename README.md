@@ -1,6 +1,8 @@
 # UNOSAT-AI-Building-Footprint #
 
-
+<div align="center">
+  <img src="resources/mmdet-logo.png" width="600"/>
+</div>
 
 The goal of UNOSAT-AI-Building-Footprint Project is to detect building on high resolution satellite imagery.
 It can get the geojson file of the corresponding satellite imagery end to end.
