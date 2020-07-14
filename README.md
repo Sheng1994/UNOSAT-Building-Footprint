@@ -83,7 +83,7 @@ dist_test.sh
 
 infer_json_test.py
 
-
+ann_file.py
 
 https://github.com/open-mmlab/mmdetection/issues/2167
 
