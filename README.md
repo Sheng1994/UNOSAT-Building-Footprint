@@ -72,11 +72,15 @@ IAM user name:Sheng1994
 Password:258369
 
 
+
+
 TO DO: Multi-GPU test
 
 dist_test.sh
 
 infer_json_test.py
+
+
 
 https://github.com/open-mmlab/mmdetection/issues/2167
 
