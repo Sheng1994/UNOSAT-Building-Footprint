@@ -63,6 +63,12 @@ infer_tot.sh
 We can get the corresponding output geojson file on the Output directly
 
 
+TO DO
+dist_test.sh
+infer_json_test.py
+
+
+
 ## Thanks to the three open source code
 [DetectoRS](https://github.com/joe-siyuan-qiao/DetectoRS)<br>
 [simrdwn](https://github.com/avanetten/simrdwn)<br>
