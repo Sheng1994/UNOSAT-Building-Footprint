@@ -30,7 +30,7 @@ docker build --no-cache -t unosataifootprint .
 Run it with 
  
 ```shell
-nvidia-docker run -it --ipc=host -v {UNOSAT-AI-Building-Footprint}:/workspace/Buildingfootprint unosataifootprint
+nvidia-docker run -it --ipc=host -v {UNOSAT-Building-Footprint}:/workspace/Buildingfootprint unosataifootprint
 ```	
 ____
 ### 1. Dateset preparation
