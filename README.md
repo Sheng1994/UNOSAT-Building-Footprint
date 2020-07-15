@@ -1,5 +1,8 @@
 # UNOSAT-AI-Building-Footprint #
 
+This work been done at Sheng'S UNOSAT traineeship
+
+
 <div align="center">
   <img src="refugee.png" width="400"/>
 </div>
