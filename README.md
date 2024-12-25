@@ -70,7 +70,6 @@ We can get the corresponding output geojson file on the Output directly
 aws
 
 
-Account ID (12 digits) or account alias:601071647888
 
 
 UNOSAT-AI-Building-Footprint-ok
