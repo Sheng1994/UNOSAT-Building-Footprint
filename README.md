@@ -1,6 +1,6 @@
 # UNOSAT-AI-Building-Footprint #
 
-This work been done at Sheng'S UNOSAT traineeship
+This work been done by Sheng at UNOSAT
 
 
 <div align="center">
