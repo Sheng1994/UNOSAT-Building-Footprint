@@ -1,6 +1,6 @@
 # UNOSAT-AI-Building-Footprint #
 
-This work been done by Sheng at UNOSAT
+This work been done by Shane at UNOSAT
 
 
 <div align="center">
